@@ -1,0 +1,34 @@
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe.config
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\bin\Debug\Siticone.UI.dll
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.AssemblyReference.cache
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Properties.Resources.resources
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.GenerateResource.cache
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CopyComplete
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Cars.resources
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Login.resources
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Places.resources
+C:\Users\Gian\source\repos\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Parking.resources
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe.config
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.AssemblyReference.cache
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Cars.resources
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Login.resources
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Parking.resources
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Places.resources
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Properties.Resources.resources
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.GenerateResource.cache
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CopyComplete
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
+C:\Users\Gian Lim\Downloads\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
